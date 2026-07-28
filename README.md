@@ -45,7 +45,7 @@ Below is the definitive roadmap for mastering AI and ML, structured as a level-u
 *Status: **INITIATED** 🚀*
 - [x] Deep Learning Fundamentals
 - [x] Perceptron
-- [ ] FNN, CNN & RNN Architectures
+- [x] FNN, CNN & RNN Architectures
 - [ ] Transformers
 - [ ] TensorFlow
 
@@ -82,6 +82,8 @@ A showcase of practical notebooks and projects currently implemented in this rep
 | **[Voting Classifier Ensemble](UltimateClassfication_votingclass.ipynb)** | Ensemble | `GradientBoosting`, `Voting` | ✅ |
 | **[Power Plant Energy Predictor](ANN_regression.ipynb)** | DL Regression | `PyTorch`, `ANN` | ✅ |
 | **[Date Fruit Classification](ANN_classification.ipynb)** | DL Classification | `PyTorch`, `ANN` | ✅ |
+| **[CIFAR-10 CNN Image Classifier](CNN_for_CIFAR10.ipynb)** | Image Classification | `PyTorch`, `CNN` | ✅ |
+| **[IMDB RNN Sentiment Analyzer](RNN.ipynb)** | Sentiment Analysis | `PyTorch`, `RNN` | ✅ |
 
 ---
 
