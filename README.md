@@ -84,6 +84,7 @@ A showcase of practical notebooks and projects currently implemented in this rep
 | **[Date Fruit Classification](ANN_classification.ipynb)** | DL Classification | `PyTorch`, `ANN` | ✅ |
 | **[CIFAR-10 CNN Image Classifier](CNN_for_CIFAR10.ipynb)** | Image Classification | `PyTorch`, `CNN` | ✅ |
 | **[IMDB RNN Sentiment Analyzer](RNN.ipynb)** | Sentiment Analysis | `PyTorch`, `RNN` | ✅ |
+| **[MNIST Digit Classification (CNN & RNN)](HandwrittenDigitClassificationusingCNN&RNN.ipynb)** | Image Classification | `PyTorch`, `CNN`, `RNN` | ✅ |
 
 ---
 
