@@ -36,7 +36,7 @@ Below is the definitive roadmap for mastering AI and ML, structured as a level-u
 - [x] Machine learning Concepts
 - [x] Supervised (Regression, Classification)
 - [x] Unsupervised (Clustering, Association)
-- [ ] Reinforcement Learning
+- [x] Reinforcement Learning
 - [x] Logistic Regression
 - [x] SVM, Decision Tree
 - [x] K-means Clustering
@@ -85,6 +85,8 @@ A showcase of practical notebooks and projects currently implemented in this rep
 | **[CIFAR-10 CNN Image Classifier](CNN_for_CIFAR10.ipynb)** | Image Classification | `PyTorch`, `CNN` | ✅ |
 | **[IMDB RNN Sentiment Analyzer](RNN.ipynb)** | Sentiment Analysis | `PyTorch`, `RNN` | ✅ |
 | **[MNIST Digit Classification (CNN & RNN)](HandwrittenDigitClassificationusingCNN&RNN.ipynb)** | Image Classification | `PyTorch`, `CNN`, `RNN` | ✅ |
+| **[Cliff Walking (SARSA)](SARSA.ipynb)** | Reinforcement Learning | `Gymnasium`, `SARSA` | ✅ |
+| **[Cliff Walking (Q-Learning)](Q_learning.ipynb)** | Reinforcement Learning | `Gymnasium`, `Q-Learning` | ✅ |
 
 ---
 
