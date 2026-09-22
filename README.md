@@ -49,7 +49,7 @@ Below is the definitive roadmap for mastering AI and ML, structured as a level-u
 - [x] Perceptron
 - [x] FNN, CNN & RNN Architectures
 - [x] Transformers
-- [ ] TensorFlow
+- [x] TensorFlow
 
 ### 🔴 Level 4: The Generative Frontier
 *Status: **IN PROGRESS** 🔄*
