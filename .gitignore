@@ -1,0 +1,15 @@
+
+# Text Summarization Project — large files
+Text_summarization_project/samsum-train.csv
+Text_summarization_project/samsum-test.csv
+Text_summarization_project/samsum-validation.csv
+Text_summarization_project/saved_summary_model/
+Text_summarization_project/results/
+Text_summarization_project/__pycache__/
+Text_summarization_project/.ipynb_checkpoints/
+
+# General
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.bak
