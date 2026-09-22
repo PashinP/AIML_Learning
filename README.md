@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ---
@@ -50,11 +52,11 @@ Below is the definitive roadmap for mastering AI and ML, structured as a level-u
 - [ ] TensorFlow
 
 ### 🔴 Level 4: The Generative Frontier
-*Status: **LOCKED** 🔒*
+*Status: **IN PROGRESS** 🔄*
 - [ ] OpenAI APIs
 - [ ] GenAI
-- [ ] LLMs (Large Language Models)
-- [ ] NLP (Natural Language Processing)
+- [x] LLMs (Large Language Models)
+- [x] NLP (Natural Language Processing)
 - [ ] RAG (Retrieval-Augmented Generation)
 - [ ] GAN (Generative Adversarial Networks)
 
@@ -87,6 +89,7 @@ A showcase of practical notebooks and projects currently implemented in this rep
 | **[MNIST Digit Classification (CNN & RNN)](HandwrittenDigitClassificationusingCNN&RNN.ipynb)** | Image Classification | `PyTorch`, `CNN`, `RNN` | ✅ |
 | **[Cliff Walking (SARSA)](SARSA.ipynb)** | Reinforcement Learning | `Gymnasium`, `SARSA` | ✅ |
 | **[Cliff Walking (Q-Learning)](Q_learning.ipynb)** | Reinforcement Learning | `Gymnasium`, `Q-Learning` | ✅ |
+| **[Dialogue Text Summarizer — T5 + FastAPI](Text_summarization_project/text_summarizer.ipynb)** | NLP / LLM Fine-Tuning | `HuggingFace`, `T5`, `FastAPI`, `PyTorch` | ✅ |
 
 ---
 
