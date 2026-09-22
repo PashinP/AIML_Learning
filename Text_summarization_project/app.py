@@ -11,3 +11,22 @@ app = FastAPI(
     description="Summarize text using HuggingFace T5 Model",
     version="1.0"
 )
+
+# Load model and tokenizer
+model = T5ForConditionalGeneration.from_pretrained("./saved_summary_model")
+tokenizer = T5Tokenizer.from_pretrained("./saved_summary_model")
+
+# Device configuration (MPS for Apple Silicon Mac, CUDA for Nvidia GPU, else CPU)
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+else:
+    device = torch.device("cpu")
+
+model.to(device)
+
+templates = Jinja2Templates(directory=".")
+
+class DialogueInput(BaseModel):
+    dialogue: str
