@@ -44,11 +44,11 @@ Below is the definitive roadmap for mastering AI and ML, structured as a level-u
 - [x] K-means Clustering
 
 ### 🟠 Level 3: Deep Learning Deep Dive
-*Status: **INITIATED** 🚀*
+*Status: **COMPLETED** 🏆*
 - [x] Deep Learning Fundamentals
 - [x] Perceptron
 - [x] FNN, CNN & RNN Architectures
-- [ ] Transformers
+- [x] Transformers
 - [ ] TensorFlow
 
 ### 🔴 Level 4: The Generative Frontier
